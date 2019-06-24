@@ -1,0 +1,1 @@
+This project contains dataset of XYZ bank needing assistance of ML model to identify the customer who can purchase the loan so that, bank can rightly approach the customers providing attractive rate of interests to get them take personal loan in same bank.
